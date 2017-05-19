@@ -95,23 +95,6 @@ echo "
 <br/>
 <hr/> 
 <br/><div><a href='http://cool-emerald.blogspot.sg/'>.: Cool Emerald :.</a></div><br/>";
-
-echo "<div>Counter: <script type='text/javascript'>";
-	echo "var sc_project=5734589; ";
-	echo "var sc_invisible=0; ";
-	echo "var sc_partition=61; ";
-	echo "var sc_click_stat=1; ";
-	echo "var sc_security='57402456'; ";
-	echo "var sc_text=1; ";
-	echo "</script>";
-
-	echo "<script type='text/javascript'";
-	echo "src='http://www.statcounter.com/counter/counter.js'></script><noscript><div";
-	echo "class='statcounter'><a title='counter on iweb'";
-	echo "href='http://www.statcounter.com/iweb/' target='_blank'><img";
-	echo "class='statcounter'";
-	echo "src='http://c.statcounter.com/5734589/0/57402456/0/'";
-	echo "alt='counter on iweb' ></a></div></noscript></div>";
 //-------------------------------------------------------------------
 //http://en.wikipedia.org/wiki/Password_generator
 function pass_gen($len,$c) {
